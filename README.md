@@ -9,17 +9,18 @@ This is a Academic project of Data Science Pos Degree which involves investigati
    - For this project we've settled 11 S&P 500 listed stocks, one per each of the 11 different sectors and fetch the market data from 01-01-2010 to 31-12-2022.
   
 The chosen stocks for this analysis cover a range of economic sectors, reflecting the diversity and complexity of the U.S. stock market. They are as follows:
-• Health Care: Johnson & Johnson (Ticker: JNJ)
-• Financials: JPMorgan Chase & Co. (Ticker: JPM)
-• Consumer Discretionary: Amazon.com Inc. (Ticker: AMZN)
-• Industrials: Boeing Co. (Ticker: BA)
-• Information Technology: Apple Inc. (Ticker: AAPL)
-• Communication Services: Facebook Inc. (Ticker: META)
-• Consumer Staples: Procter & Gamble Co. (Ticker: PG)
-• Utilities: NextEra Energy Inc. (Ticker: NEE)
-• Real Estate: American Tower Corp. (Ticker: AMT)
-• Materials: Ecolab Inc. (Ticker: ECL)
-• Energy: Exxon Mobil Corp. (Ticker: XOM)
+
+   - Health Care: Johnson & Johnson (Ticker: JNJ)
+   - Financials: JPMorgan Chase & Co. (Ticker: JPM)
+   - Consumer Discretionary: Amazon.com Inc. (Ticker: AMZN)
+   - Industrials: Boeing Co. (Ticker: BA)
+   - Information Technology: Apple Inc. (Ticker: AAPL)
+   - Communication Services: Facebook Inc. (Ticker: META)
+   - Consumer Staples: Procter & Gamble Co. (Ticker: PG)
+   - Utilities: NextEra Energy Inc. (Ticker: NEE)
+   - Real Estate: American Tower Corp. (Ticker: AMT)
+   - Materials: Ecolab Inc. (Ticker: ECL)
+   - Energy: Exxon Mobil Corp. (Ticker: XOM)
 
 
 2. **Return Computation**
