@@ -9,10 +9,10 @@ This is a Academic project of Data Science Pos Degree which involves investigati
    - For this project we've settled 11 S&P 500 listed stocks, one per each of the 11 different sectors and fetch the market data from 01-01-2010 to 31-12-2022.
 
 2. **Return Computation**
-   - Calculate daily, weekly, and monthly log-returns using adjusted closing prices.
+   - The time series was calculated in daily, weekly, and monthly log-returns using adjusted closing prices.
 
 3. **Empirical Investigation**
-   - Analyze financial market return properties:
+   - Analyzed financial market return properties:
      - Absence of auto-correlation
      - Fat Tails (non-normal distribution)
      - Asymmetry or negative skewness
@@ -21,8 +21,8 @@ This is a Academic project of Data Science Pos Degree which involves investigati
      - Conditional non-normality
 
 4. **Performance Evaluation**
-   - Split data into training (01-01-2010 to 31-12-2015) and test (01-01-2016 to 31-12-2022) sets.
-   - Evaluate investment strategies:
+   - Splitted data into training (01-01-2010 to 31-12-2015) and test (01-01-2016 to 31-12-2022) sets.
+   - Evaluated investment strategies:
      - Buy & Hold
      - Equally weighted portfolio
      - Quintile portfolio
@@ -31,9 +31,7 @@ This is a Academic project of Data Science Pos Degree which involves investigati
      - Maximum Sharpe ratio portfolio
      - Inverse Volatility Portfolio
 
-EXTRA: we also investigated the performance of portfolio management
-strategies using alternative risk measures, e.g., downside risk, Value-at-Risk (VaR), Conditional
-VaR (CVaR) or expected shortfall (ES).
+EXTRA: we also investigated the performance of portfolio management strategies using alternative risk measures, e.g., downside risk, Value-at-Risk (VaR), Conditional VaR (CVaR) or expected shortfall (ES).
 
 5. **Case Study Report**
    - Discuss results using risk-adjusted performance metrics (returns, volatility, Sharpe ratio, Sterling ratio, drawdown).
