@@ -1,5 +1,11 @@
 ## Computational_Finance_for_Asset_and_Portfolio_Management
 
+This is an Academic project Postgraduate in Data Science made in collaboration with my colleagues below:
+
+- https://github.com/Przon | [Fernando Reis]
+- https://github.com/lfbr0 | [Luis Ribeiro]
+- https://github.com/renato747 | [Renato Morais]
+
 #### Overview
 This is a Academic project of Data Science Pos Degree which involves investigating the empirical properties of financial market returns using US stock market data and testing the performance of various portfolio investment strategies.
 
